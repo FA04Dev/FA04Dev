@@ -85,6 +85,7 @@
 
 <img src="https://raw.githubusercontent.com/FA04Dev/FA04Dev/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 <div align="center">
@@ -98,9 +99,5 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=790b76114fg99z1bm9hmkr3aix6rmf90kbq0hnnqzwcknjlj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
